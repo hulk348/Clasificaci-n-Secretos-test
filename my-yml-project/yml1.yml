@@ -1,0 +1,15 @@
+settings:
+  user_management:
+    reset_password: "password.hyo"
+  authentication:
+    enable_ssl: true
+    token_expiry_minutes: 60
+  database:
+    host: "localhost"
+    port: 5432
+    username: "db_user"
+    password: "db_password"
+  logging:
+    level: "INFO"
+    file_path: "/var/log/app.log"
+

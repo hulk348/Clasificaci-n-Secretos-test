@@ -1,0 +1,18 @@
+
+errors.log.enable: "true"
+errors.max_retries: "five"
+errors.timeout: 30
+errors.timeout: 60
+errors.path: "/var/log/app"
+errors.logging:
+       level: INFO  # Indentación excesiva
+      file: /var/log/errors.log
+errors.retry_policy: null
+errors.valid_codes:
+  - 200
+  - 201
+  - "success"
+errors.user@id: "user_123"  # Uso de carácter '@' no permitido en claves estándar
+errors.incomplete_setting:
+errors.invalid_characters: "Error message with \unescaped backslash"
+

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+                DTS:refId="Package"
+                DTS:CreationDate="2024-11-26T00:00:00.000"
+                DTS:LastModifiedDate="2024-11-26T00:00:00.000">
+    <DTS:Property DTS:Name="PackageFormatVersion">8</DTS:Property>
+    <DTS:Property DTS:Name="CreationName">SSIS.Package</DTS:Property>
+    <DTS:Property DTS:Name="Description">Simulated SSIS package for secret detection testing</DTS:Property>
+    
+    <DTS:Variable DTS:Name="SquareAccessToken" DTS:DataType="String">
+        <DTS:Value>sq0atp-abcdefghijklmnopqrstuvwxyz1234567890</DTS:Value>
+    </DTS:Variable>
+
+    <DTS:Executable DTS:refId="Task">
+        <DTS:Property DTS:Name="TaskName">Test Task</DTS:Property>
+        <DTS:Property DTS:Name="Description">Task to process a simulated access token</DTS:Property>
+        <DTS:Variable DTS:Name="SquareAccessToken" DTS:DataType="String">
+            <DTS:Value>sq0atp-abcdefghijklmnopqrstuvwxyz1234567890</DTS:Value>
+        </DTS:Variable>
+    </DTS:Executable>
+</DTS:Executable>
+
