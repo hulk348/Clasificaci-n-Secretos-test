@@ -1,0 +1,3 @@
+backup_user=admin
+backup_password=AdminKey2023
+backup_location=/backups

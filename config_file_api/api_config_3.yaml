@@ -1,0 +1,4 @@
+api:
+  key: KLMNO-ABCDE-67890-FGHIJ-QRSTU
+  endpoint: https://api.example.com
+  timeout: 30

@@ -1,0 +1,4 @@
+database:
+  username: admin
+  password: TestPass@2024
+  host: localhost

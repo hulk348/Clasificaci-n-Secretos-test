@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <service>
+        <name>DatabaseService</name>
+        <awsClientId>AKIAEXAMPLE1234567890</awsClientId>
+        <region>us-east-1</region>
+        <endpoint>https://databaseservice.example.com</endpoint>
+    </service>
+</configuration>

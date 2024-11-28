@@ -1,0 +1,3 @@
+auth:
+  jwt: "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiY2hhcmxpZSIsImV4cCI6MTY4MDAwMDB9.X6G5H5J5H6B5N6M5H"
+  token_expiry: 3600

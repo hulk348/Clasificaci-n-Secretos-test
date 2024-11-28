@@ -1,0 +1,7 @@
+<configuration>
+  <service>
+    <name>SquareService</name>
+    <accessToken>EAAAEXAMPLESIMULATED0987654321opqrstuv</accessToken>
+    <endpoint>https://connect.squareup.com/v2/</endpoint>
+  </service>
+</configuration>

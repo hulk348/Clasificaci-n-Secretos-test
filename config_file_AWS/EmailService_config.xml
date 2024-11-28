@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <service>
+        <name>EmailService</name>
+        <awsClientId>AKIAEXAMPLE5566778899</awsClientId>
+        <region>ap-southeast-1</region>
+        <endpoint>https://emailservice.example.com</endpoint>
+    </service>
+</configuration>

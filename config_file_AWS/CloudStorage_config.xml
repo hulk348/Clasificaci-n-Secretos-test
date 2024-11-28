@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <service>
+        <name>CloudStorage</name>
+        <awsClientId>AKIAEXAMPLEAABBCCDDEE</awsClientId>
+        <region>us-east-2</region>
+        <endpoint>https://cloudstorage.example.com</endpoint>
+    </service>
+</configuration>

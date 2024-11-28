@@ -1,0 +1,4 @@
+database:
+  username: admin
+  password: DevSecret%001
+  host: localhost

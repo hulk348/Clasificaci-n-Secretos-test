@@ -1,0 +1,5 @@
+process:
+  name: SquareDataProcess
+  square_access_token: "EAAAEXAMPLESQUARE09876abcdefgHIJKLMN"
+  endpoint: "https://connect.squareup.com/v2/"
+  action: fetch_data

@@ -1,0 +1,3 @@
+backup_user=admin
+backup_password=MySecret789#
+backup_location=/backups

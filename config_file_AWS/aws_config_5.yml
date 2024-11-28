@@ -1,0 +1,3 @@
+auth:
+  aws_client_id: AKIAEXAMPLESHORT123
+  region: us-west-2

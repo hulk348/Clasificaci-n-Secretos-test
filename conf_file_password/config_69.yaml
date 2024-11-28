@@ -1,0 +1,4 @@
+database:
+  username: admin
+  password: UserKey#987
+  host: localhost

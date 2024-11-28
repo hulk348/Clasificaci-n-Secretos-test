@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <service>
+        <name>MessagingAPI</name>
+        <awsClientId>AKIAEXAMPLE1122334455</awsClientId>
+        <region>eu-central-1</region>
+        <endpoint>https://messagingapi.example.com</endpoint>
+    </service>
+</configuration>

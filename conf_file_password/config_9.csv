@@ -1,0 +1,11 @@
+Service,Username,Password,Endpoint,Port
+database,user_database,TestPass@2024,https://database.example.com,3248
+api,user_api,Encrypted$Key,https://api.example.com,6657
+backup,user_backup,UserKey#987,https://backup.example.com,8088
+email,user_email,MySecret789#,https://email.example.com,1647
+ftp,user_ftp,RandomKey*&76,https://ftp.example.com,4171
+webapp,user_webapp,Password123!,https://webapp.example.com,5364
+cloud_storage,user_cloud_storage,Encrypted$Key,https://cloud_storage.example.com,2293
+analytics,user_analytics,BackupPass$!,https://analytics.example.com,1287
+devops_tool,user_devops_tool,RandomKey*&76,https://devops_tool.example.com,5755
+messaging_service,user_messaging_service,Encrypted$Key,https://messaging_service.example.com,8397

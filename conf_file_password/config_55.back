@@ -1,0 +1,3 @@
+backup_user=admin
+backup_password=TestPass@2024
+backup_location=/backups

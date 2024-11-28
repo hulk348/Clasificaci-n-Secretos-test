@@ -1,0 +1,3 @@
+backup_user=admin
+backup_password=SecurePass456$
+backup_location=/backups

@@ -1,0 +1,4 @@
+auth:
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.authToken7
+  client_id: client12345
+  auth_url: https://auth.example.com

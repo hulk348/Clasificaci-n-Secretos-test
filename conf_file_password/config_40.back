@@ -1,0 +1,3 @@
+backup_user=admin
+backup_password=RandomKey*&76
+backup_location=/backups

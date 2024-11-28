@@ -1,0 +1,4 @@
+auth:
+  username: admin
+  password: BackupPass$!
+  server: example.com

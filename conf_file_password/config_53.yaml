@@ -1,0 +1,4 @@
+database:
+  username: admin
+  password: MySecret789#
+  host: localhost
