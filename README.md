@@ -11,3 +11,5 @@ Falsos Positivos agregados
 --  my-yml-project
 
 --  my-rename-user-scripts-project
+
+--  my-EKS-project/ProyectoEKS/guia_de_instalacion_en_eks
