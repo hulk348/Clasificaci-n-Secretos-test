@@ -1,0 +1,8 @@
+##AWS
+backup_aws_client_id=AKIAEXAMPLE1234567890
+backup_region=us-west-1
+
+##PASSWORD
+backup_user=admin
+backup_password=Password123!
+backup_location=/backups

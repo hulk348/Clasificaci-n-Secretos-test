@@ -1,0 +1,39 @@
+##Auth
+auth:
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.authToken7
+  client_id: client12345
+  auth_url: https://auth.example.com
+
+auth:
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.exampleToken6
+  service: api_service
+
+##Api
+api:
+  key: EFGHI-ZABCD-UVWXY-ABCDE-KLMNO
+  endpoint: https://api.example.com
+  timeout: 30
+
+##AWS
+aws:
+  client_id: AKIAEXAMPLELONGKEY9876
+  region: us-east-1
+
+
+##jwt
+auth:
+  jwt: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjoiZXhhbXBsZSJ9.6H5Yhg6HgJgNbgH5Bg5"
+  token_expiry: 3600
+
+##secret
+secrets:
+  db_secret: AdminDBKey2023
+  api_secret: AdminAPIKey2023
+  encryption_key: AdminEncryptKey2023
+
+##password
+database:
+  username: admin
+  password: AdminKey2023
+  host: localhost
+

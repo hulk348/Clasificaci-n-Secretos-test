@@ -2,14 +2,10 @@
 
 Falsos Positivos agregados
 
---  my-ssis-project
+--  Java 1
 
---  my-java-project (imagen1.js, imagen2.js, imagen3.js, imagen4.js, imagen5.js)
+--  Node 1
 
---  my-lls-project
+--  PowerShell 1
 
---  my-yml-project
-
---  my-rename-user-scripts-project
-
---  my-EKS-project/ProyectoEKS/guia_de_instalacion_en_eks
+--  Config_File 3

@@ -1,3 +1,0 @@
-auth:
-  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.exampleToken9
-  service: api_service

@@ -1,0 +1,19 @@
+//Auth
+auth:
+  aws_client_id: AKIAEXAMPLE0987654321
+  region: us-west-2
+
+
+
+//JWT
+authentication:
+  jwt: "eyJhbGciOiJQUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJyb2xlIjoiYWRtaW4ifQ.P5K5J6G5H6K5B6G5"
+  token_lifetime: 3600
+
+
+//PASSWORD
+auth:
+  username: admin
+  password: AdminKey2023
+  server: example.com
+

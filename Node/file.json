@@ -1,0 +1,31 @@
+//Auth
+
+{"auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.authToken3", "client_id": "client12345", "auth_url": "https://auth.example.com"}
+
+{"auth_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.exampleToken4", "service": "api_service"}
+
+//API
+
+{"api_key": "UVWXY-67890-ABCDE-12345-ZABCD", "endpoint": "https://api.example.com", "timeout": 30}
+
+//AWS
+
+{"aws_client_id": "AKIAEXAMPLESHORT123", "region": "us-east-1"}
+
+//KEY
+
+{"api_key": "AKIAEXAMPLESIMULATEDKEY", "client_key": "Ck415ExampleClientKey", "service": "example_service"}
+
+//PASSWORD
+
+{"username": "admin", "password": "BackupPass$!", "server": "127.0.0.1"}
+
+//JWT
+
+{
+  "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxMjM0NTY3ODkwLCJ1c2VybmFtZSI6ImpvaG5kb2UiLCJyb2xlcyI6WyJ1c2VyIiwiYWRtaW4iXSwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+}
+
+//Google API KEY
+
+{"google_api_key": "AIzaSyAbCwFakSYz1234ExampleAPIkey", "service": "maps"}

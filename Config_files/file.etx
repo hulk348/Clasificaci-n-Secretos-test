@@ -1,0 +1,8 @@
+##AWS
+external_aws_client_id=AKIAEXAMPLE5566778899
+endpoint=api.example.com
+
+##PASSWORD
+external_service_user=admin
+external_service_password=RandomKey*&76
+endpoint=api.example.com
